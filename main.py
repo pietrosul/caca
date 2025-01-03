@@ -22,7 +22,7 @@ pygame.display.set_caption("Urban Defender")
 clock = pygame.time.Clock()
 
 # Print current working directory
-print("Current workin directory:", os.getcwd())
+print("Current working directory:", os.getcwd())
 
 # Load assets with error handling
 try:
